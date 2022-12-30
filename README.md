@@ -1,4 +1,4 @@
-# DestroyBenchmark
+# Destroy Benchmark
 
 Why is the name Destroy? You may wonder, "Destroy Benchmark" is a desktop program to benchmark the performance of the CPU, RAM, and Disk. When starting the program you can't do anything on your computer if your computer is not good. Let's try it yourself!
 
