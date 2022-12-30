@@ -1,6 +1,6 @@
 # DestroyBenchmark
 
-Why is the name Destroy? You may wonder, "Destroy Benchmark" is a desktop program to benchmark the performance of the CPU, RAM, and Disk. When starting the program you can't do anything on your computer anymore if your computer is not good. Let's try it yourself!
+Why is the name Destroy? You may wonder, "Destroy Benchmark" is a desktop program to benchmark the performance of the CPU, RAM, and Disk. When starting the program you can't do anything on your computer if your computer is not good. Let's try it yourself!
 
 ### Tech stack
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
